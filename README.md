@@ -10,7 +10,7 @@
 - 💬 Ask me about: the basics of cybersecurity, how to code safely, or how I got started learning about security.
 - 📫 How to reach me:  
   [Email](mailto:quochuyphbrvt@gmail.com) | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quoc.huy.tran.2007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williamtran207)
-  - 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a tad introverted but open up quickly when the topic is tech, security, or the beloved bean ☕.
 ---
 # 💻Tech Stack
