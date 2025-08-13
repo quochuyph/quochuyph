@@ -45,8 +45,8 @@
 **Current Stage → Goal: Cybersecurity Specialist**  
 
 #### 📍 Current Focus
-- ✅ **Linux Fundamentals** ![Linux](https://img.shields.io/badge/Linux-Training-success?style=flat-square)
-- ✅ **Python for Security** ![Python](https://img.shields.io/badge/Python-Scripting-success?style=flat-square)
+- 🟨 **Linux Fundamentals** ![Linux](https://img.shields.io/badge/Linux-In%20Progress-yellow?style=flat-square)
+- 🟨 **Python for Security** ![Python](https://img.shields.io/badge/Python-In%20Progress-yellow?style=flat-square)
 - 🟨 **Networking Basics** ![Networking](https://img.shields.io/badge/Networking-In%20Progress-yellow?style=flat-square)
 - 🟨 **Penetration Testing** ![Pentest](https://img.shields.io/badge/Pentest-In%20Progress-yellow?style=flat-square)
 
