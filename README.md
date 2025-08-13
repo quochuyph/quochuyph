@@ -4,16 +4,16 @@
 ---
 
 ### 🚀 About Me
-🎓 I'm currently a student majoring in **Information Security**, with a strong desire to become a **Cybersecurity Specialist**.  
-🔐 I enjoy exploring how systems work, finding vulnerabilities, and building better defenses — all while keeping learning fun and engaging.  
+🎓 I'm currently a student majoring in **Information Security**, aiming to become a **Cybersecurity Specialist**.  
+🔐 I enjoy exploring how systems work, finding vulnerabilities, and building stronger defenses — all while keeping learning fun and engaging.  
 🤝 Friendly and easy-going, though a bit introverted at first.  
 ☕ Coffee + tech talks = perfect day.
 
 ---
 
 ### 🔭 What I'm Working On
-- Improving **penetration testing**, **network security**, and **secure software development** skills.
-- Creating security tools with **C++** and **Python**.
+- Improving **penetration testing**, **network security**, and **secure software development** skills
+- Creating security tools with **C++** and **Python**
 
 ### 🌱 Currently Learning
 - Ethical hacking & CTF challenges  
@@ -41,22 +41,29 @@
 
 ---
 
-## 🗺️ My Learning Roadmap
+## 🗺️ My Learning Roadmap  
 **Current Stage → Goal: Cybersecurity Specialist**  
 
 #### 📍 Current Focus
-- ✅ **Linux Fundamentals** ![Linux](https://img.shields.io/badge/Linux-Training-success?style=flat-square)
-- ✅ **Python for Security** ![Python](https://img.shields.io/badge/Python-Scripting-success?style=flat-square)
-- 🟨 **Networking Basics** ![Networking](https://img.shields.io/badge/Networking-In%20Progress-yellow?style=flat-square)
-- 🟨 **Penetration Testing** ![Pentest](https://img.shields.io/badge/Pentest-In%20Progress-yellow?style=flat-square)
+- **Linux Fundamentals**  
+  ![Progress](https://progress-bar.dev/100/?title=Done&width=200)  
+- **Python for Security**  
+  ![Progress](https://progress-bar.dev/100/?title=Done&width=200)  
+- **Networking Basics**  
+  ![Progress](https://progress-bar.dev/70/?title=In%20Progress&width=200)  
+- **Penetration Testing**  
+  ![Progress](https://progress-bar.dev/50/?title=In%20Progress&width=200)  
 
 #### 🎯 Next Steps
-- 🔜 **Advanced Web Security** ![WebSec](https://img.shields.io/badge/Web%20Security-Planned-blue?style=flat-square)
-- 🔜 **Digital Forensics** ![Forensics](https://img.shields.io/badge/Forensics-Planned-blue?style=flat-square)
-- 🔜 **Reverse Engineering** ![Reverse](https://img.shields.io/badge/Reverse%20Engineering-Planned-blue?style=flat-square)
+- **Advanced Web Security**  
+  ![Progress](https://progress-bar.dev/0/?title=Planned&width=200)  
+- **Digital Forensics**  
+  ![Progress](https://progress-bar.dev/0/?title=Planned&width=200)  
+- **Reverse Engineering**  
+  ![Progress](https://progress-bar.dev/0/?title=Planned&width=200)  
 
 #### 🏆 Long-term Goal
-- 🚀 Become a **Cybersecurity Specialist** mastering **Red Team & Blue Team operations**.
+🚀 Become a **Cybersecurity Specialist** mastering **Red Team & Blue Team operations**.
 
 ---
 
